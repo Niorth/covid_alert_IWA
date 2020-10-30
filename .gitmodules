@@ -13,3 +13,6 @@
 [submodule "covid_alert_gateway_ms"]
 	path = covid_alert_gateway_ms
 	url = https://github.com/Niorth/covid_alert_gateway_ms.git
+[submodule "covid_alert_suspiciousPositions_ms"]
+	path = covid_alert_suspiciousPositions_ms
+	url = https://github.com/Niorth/covid_alert_suspiciousPositions_ms.git

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covid_alert_covidState_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covid_alert_gateway_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covid_alert_notifications_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covid_alert_position_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covid_alert_user_ms" vcs="Git" />
+  </component>
+</project>
